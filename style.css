@@ -1,0 +1,18 @@
+body{
+    /* background-color: rgb(12, 12, 95); */
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(14, 11, 212);
+}
+#off{
+    height: 454px;
+    width: 330px;
+}
+button{
+    margin: 10px;
+    padding: 5px;
+}
